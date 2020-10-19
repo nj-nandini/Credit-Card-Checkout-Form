@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Credit-Card-Checkout-Form/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Credit-Card-Checkout-Form/static/js/main.9fcbbb75.chunk.js",
+    "main.js.map": "/Credit-Card-Checkout-Form/static/js/main.9fcbbb75.chunk.js.map",
+    "runtime-main.js": "/Credit-Card-Checkout-Form/static/js/runtime-main.a85e30a0.js",
+    "runtime-main.js.map": "/Credit-Card-Checkout-Form/static/js/runtime-main.a85e30a0.js.map",
+    "static/js/2.caafcda2.chunk.js": "/Credit-Card-Checkout-Form/static/js/2.caafcda2.chunk.js",
+    "static/js/2.caafcda2.chunk.js.map": "/Credit-Card-Checkout-Form/static/js/2.caafcda2.chunk.js.map",
+    "index.html": "/Credit-Card-Checkout-Form/index.html",
+    "precache-manifest.9a28946b3d619d98c38c72d0c58e000b.js": "/Credit-Card-Checkout-Form/precache-manifest.9a28946b3d619d98c38c72d0c58e000b.js",
+    "service-worker.js": "/Credit-Card-Checkout-Form/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Credit-Card-Checkout-Form/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.caafcda2.chunk.js.LICENSE.txt": "/Credit-Card-Checkout-Form/static/js/2.caafcda2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Credit-Card-Checkout-Form/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a85e30a0.js",
+    "static/js/2.caafcda2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9fcbbb75.chunk.js"
+  ]
+}
